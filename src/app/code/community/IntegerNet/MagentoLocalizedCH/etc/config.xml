@@ -33,13 +33,20 @@
                 <allow>CH,LI</allow>
             </country>
             <locale>
-                <code>de_DE</code>
+                <code>de_CH</code>
+                <code_fallback>de_DE</code_fallback>
                 <firstday>1</firstday>
             </locale>
             <store_information>
                 <merchant_country>CH</merchant_country>
             </store_information>
             <imprint>
+                <shop_name>Beispielshop</shop_name>
+                <company_first>Musterfirma GmbH</company_first>
+                <zip>1234</zip>
+                <street>Musterstr. 1</street>
+                <city>Musterstadt</city>
+                <email>info@musterdomain.ch</email>
                 <country>CH</country>
                 <display_copyright>1</display_copyright>
             </imprint>
@@ -120,7 +127,7 @@
                 <sort_order>40</sort_order>
                 <order_status>pending</order_status>
                 <shippingallowspecific>1</shippingallowspecific>
-                <shippingspecificcountry>DE</shippingspecificcountry>
+                <shippingspecificcountry>CH</shippingspecificcountry>
                 <inlandcosts>2</inlandcosts>
                 <customtext>Bei Zahlung per Nachnahme erhebt der Zusteller zusätzlich 2,00 €
                     Übermittlungsentgelt vor Ort.</customtext>
@@ -171,7 +178,6 @@
                     <name>Grundpreis-Modul</name>
                     <description>Automatische Berechnung und Anzeige des Grundpreises für Artikel</description>
                     <url>http://de.nr-apps.com/store/baseprice-extension-basic.html</url>
-                    <is_default>0</is_default>
                 </dermodpro_baseprice>
                 <aoe_managestores>
                     <description>Ein deutlich intuitiveres Interface zum Verwalten von Websites, Stores und Store Views</description>
@@ -180,6 +186,12 @@
                     <description>Automatisches Versionieren von Javascript- und CSS-Dateien</description>
                     <url>http://www.fabrizio-branca.de/automatisches-versionieren-von-javascript-und-css-dateien-in-magento.html</url>
                 </aoe_jscsststamp>
+                <cashondelivery>
+                    <is_default>0</is_default>
+                </cashondelivery>
+                <therouv_debitpayment>
+                    <is_default>0</is_default>
+                </therouv_debitpayment>
             </modules>
         </magento_localized>
         <germansetup>
