@@ -129,7 +129,7 @@
                 <shippingallowspecific>1</shippingallowspecific>
                 <shippingspecificcountry>CH</shippingspecificcountry>
                 <inlandcosts>2</inlandcosts>
-                <customtext>Bei Zahlung per Nachnahme erhebt der Zusteller zusätzlich 2,00 €
+                <customtext>Bei Zahlung per Nachnahme erhebt der Zusteller zusätzlich 2,00 CHF
                     Übermittlungsentgelt vor Ort.</customtext>
             </cashondelivery>
         </payment>
