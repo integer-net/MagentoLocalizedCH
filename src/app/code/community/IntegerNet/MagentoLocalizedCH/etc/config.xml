@@ -140,7 +140,6 @@
             <module_url>http://de.nr-apps.com/store/magento-ch.html</module_url>
             <logo_filename>magento_localized/logo.png</logo_filename>
             <tracking_url>http://www.nr-apps.com/store/germanstoreconfig/tracking</tracking_url>
-            <newsfeed_url>http://www.nr-apps.com/store/media/germanstoreconfig/feed.xml</newsfeed_url>
             <iframe_url_prefix>https://www.nr-apps.com/n/magento-ch/</iframe_url_prefix>
             <iframe_url_suffix>.html</iframe_url_suffix>
             <feed_url_prefix>http://www.nr-apps.com/store/media/germanstoreconfig/</feed_url_prefix>
@@ -189,6 +188,11 @@
                 <therouv_debitpayment>
                     <is_default>0</is_default>
                 </therouv_debitpayment>
+                <openstream_rappenrounding>
+                    <name>5-Rappen-Rundung</name>
+                    <is_default>1</is_default>
+                    <is_available>1</is_available>
+                </openstream_rappenrounding>
             </modules>
         </magento_localized>
         <germansetup>
