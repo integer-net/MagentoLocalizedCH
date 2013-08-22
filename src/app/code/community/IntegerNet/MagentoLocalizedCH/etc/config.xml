@@ -142,6 +142,8 @@
             <tracking_url>http://www.nr-apps.com/store/germanstoreconfig/tracking</tracking_url>
             <iframe_url_prefix>https://www.nr-apps.com/n/magento-ch/</iframe_url_prefix>
             <iframe_url_suffix>.html</iframe_url_suffix>
+            <iframe_main_language_code>de</iframe_main_language_code>
+            <iframe_fallback_language_code>en</iframe_fallback_language_code>
             <feed_url_prefix>http://www.nr-apps.com/store/media/germanstoreconfig/</feed_url_prefix>
             <default_language>de_DE</default_language>
             <available_languages>
