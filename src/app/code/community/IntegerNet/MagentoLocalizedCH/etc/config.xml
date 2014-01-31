@@ -160,6 +160,12 @@
                 <it>http://www.nr-apps.com/n/magento_ch_it/guide.html</it>
                 <default>http://www.nr-apps.com/n/magento_ch_en/guide.html</default>
             </install_guide_url>
+            <survey_url>
+                <de>http://www.nr-apps.com/n/magento_ch_de/survey.html</de>
+                <fr>http://www.nr-apps.com/n/magento_ch_fr/survey.html</fr>
+                <it>http://www.nr-apps.com/n/magento_ch_it/survey.html</it>
+                <default>http://www.nr-apps.com/n/magento_ch_en/survey.html</default>
+            </survey_url>
             <form_fields>
                 <general__imprint__ceo>
                     <type>text</type>
