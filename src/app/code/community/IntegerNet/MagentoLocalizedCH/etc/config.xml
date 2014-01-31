@@ -154,6 +154,12 @@
             <country>CH</country>
             <currency>CHF</currency>
             <timezone>Europe/Berlin</timezone>
+            <install_guide_url>
+                <de>http://www.nr-apps.com/n/magento_ch_de/guide.html</de>
+                <fr>http://www.nr-apps.com/n/magento_ch_fr/guide.html</fr>
+                <it>http://www.nr-apps.com/n/magento_ch_it/guide.html</it>
+                <default>http://www.nr-apps.com/n/magento_ch_en/guide.html</default>
+            </install_guide_url>
             <form_fields>
                 <general__imprint__ceo>
                     <type>text</type>
