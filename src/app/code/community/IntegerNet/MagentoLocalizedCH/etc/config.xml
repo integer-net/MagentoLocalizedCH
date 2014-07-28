@@ -241,6 +241,9 @@
                     <is_available>1</is_available>
                 </openstream_rappenrounding>
             </modules>
+            <billsafe>
+                <is_available>1</is_available>
+            </billsafe>
         </magento_localized>
         <germansetup>
             <default_country>ch</default_country>
